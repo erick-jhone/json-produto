@@ -1,5 +1,9 @@
 {
-"nome": "Refrigerante Pepsi 1L",
-"valor": 11.99
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Refrigerante Pepsi 1L",
+      "valor": 11.99
+    }
+  ]
 }
-
